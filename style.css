@@ -1,7 +1,11 @@
 p{
-      color: bisque;
+      color: rgb(245, 222, 12);
+      font-size: 20px;
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
 }
 h1{
       background-color: cadetblue;
       text-align: center;
+      color: black;
 }
